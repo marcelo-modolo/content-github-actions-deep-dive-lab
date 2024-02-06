@@ -18,6 +18,7 @@ const IndexPage = () => {
         </h1>
 
         <h4 className="title_code">Launch Date Announced</h4>
+
         <p className="description">
           Join Our Mailing List!
           <br />
